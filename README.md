@@ -5,7 +5,7 @@
 
 - ⚡ Golang/C++
 - 🧐 Interested in networking & distributed system
-- 🌌 Exploring graph proceesing and graph database now
+- 🌌 Exploring graph processing and graph database now
 - 🌱 Undergraduate of HUST. I'm on the way!
 - 📧 yuxingtu@outlook.com
 
