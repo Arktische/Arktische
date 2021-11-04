@@ -6,7 +6,7 @@
 - ⚡ Golang/C++
 - 🧐 Interested in networking & distributed system
 - 🌌 Exploring graph processing and graph database now
-- 🌱 Undergraduate of HUST. I'm on the way!
+- 🌱 Incoming software engineer at Tiktok. I'm on the way!
 - 📧 yuxingtu@outlook.com
 
 
