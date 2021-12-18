@@ -6,7 +6,7 @@
 - ⚡ Golang/C++
 - 🧐 Interested in networking & distributed system
 - 🌌 Exploring graph processing and graph database now
-- 🌱 Incoming software engineer at Tiktok. I'm on the way!
+- 🌱 Software engineer at TikTok. I'm on the way!
 - 📧 yuxingtu@outlook.com
 
 
