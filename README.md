@@ -4,9 +4,8 @@
 [![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)](https://bytesflow.me/)
 
 - ⚡ C++/Golang
-- 🧐 Interested in networking & distributed system
-- 🌌 Exploring graph processing and graph database now
-- 🌱 Software engineer at TikTok. I'm on the way!
+- 🧐 Interested in everything about systems
+- 🌱 I'm on the way!
 - 📧 yuxingtu@outlook.com
 
 
